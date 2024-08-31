@@ -53,11 +53,11 @@ body {
     width: 75%;
     display: flex;
     flex-direction: column;
-    background-color: #ada192;
+    background-color: #ddd8d5;
 }
 
 .chat-header {
-    background-color: #ada192;
+    background-color: #aaaaaa;
     color: #fff;
     padding: 15px;
     display: flex;
