@@ -42,11 +42,11 @@ body {
 }
 
 .contact.active {
-    background-color: #ada192;
+    background-color: #aaaaaa;
 }
 
 .contact:hover {
-    background-color: #ada192;
+    background-color: #ddd8d5;
 }
 
 .chat-section {
